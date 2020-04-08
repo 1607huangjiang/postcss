@@ -60,7 +60,7 @@
     "husky": "^4.2.3",
     "jest": "^25.3.0",
     "lint-staged": "^10.1.2",
-    "postcss-parser-tests": "postcss/postcss-parser-tests",
+    "postcss-parser-tests": "^6.5.0",
     "rimraf": "^3.0.2",
     "size-limit": "^4.4.5",
     "strip-ansi": "^6.0.0",
